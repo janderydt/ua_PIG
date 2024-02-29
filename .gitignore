@@ -1,0 +1,23 @@
+# ignore specif file formats
+*.mat
+*.xcf
+*.svg
+*.jpg
+*.png
+*.txt
+*.sh
+*.tif
+*.xml
+*.cpg
+*.dbf
+*.prj
+*.qpj
+*.shp
+*.shx
+
+# ignore hidden files
+.*
+
+# ignore folders 
+NetCDF_UaOutput/
+TheCryosphere/

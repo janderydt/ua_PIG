@@ -1,0 +1,1 @@
+&Uacute;a configuration files and Matlab scripts for data processing and plotting of results in [De Rydt et al. 2020](https://doi.org/10.5194/tc-15-113-2021). The corresponding raw model output in NetCDF format is stored in an [OSF repository](DOI 10.17605/OSF.IO/TEKRF). 
